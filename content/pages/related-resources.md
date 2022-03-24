@@ -11,7 +11,7 @@ General
 2.  [US Geological Survey](http://www.usgs.gov/hazards/)
 3.  [National Geophysical Data Center](http://www.ngdc.noaa.gov/hazard/hazards.shtml)
 4.  [USGS Real-time Hazards Page](https://www2.usgs.gov/natural_hazards/)
-5.  Spatial Patterns of Natural Hazard mortality in the United States (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.5MB](http://www.ij-healthgeographics.com/content/pdf/1476-072X-7-64.pdf))
+5.  Spatial Patterns of Natural Hazard mortality in the United States ([PDF - 2.5MB](http://www.ij-healthgeographics.com/content/pdf/1476-072X-7-64.pdf))
 
 Earthquakes
 -----------

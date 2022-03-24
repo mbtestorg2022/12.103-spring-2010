@@ -132,7 +132,7 @@ Earthquake preparedness and warning systems
 Tropical cyclones
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.0MB]({{< baseurl >}}/resources/mit12_103s10_hurricane1))
+([PDF - 3.0MB]({{< baseurl >}}/resources/mit12_103s10_hurricane1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +156,7 @@ The tropical atmosphere: Hurricane incubator
 Computational models of hurricanes
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.4MB]({{< baseurl >}}/resources/mit12_103s10_hurricane3))
+([PDF - 2.4MB]({{< baseurl >}}/resources/mit12_103s10_hurricane3))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +186,7 @@ Volcano overview
 Magma generation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit12_103s10_volcanoes_4))
+([PDF]({{< baseurl >}}/resources/mit12_103s10_volcanoes_4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +198,7 @@ Magma generation
 Magma ascent and eruption
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit12_103s10_volcanoes_5))
+([PDF]({{< baseurl >}}/resources/mit12_103s10_volcanoes_5))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -264,7 +264,7 @@ Moist convection
 Stability assessment
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit12_103s10_tornado_4))
+([PDF]({{< baseurl >}}/resources/mit12_103s10_tornado_4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -276,7 +276,7 @@ Stability assessment
 Thunderstorms
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit12_103s10_tornado_5))
+([PDF]({{< baseurl >}}/resources/mit12_103s10_tornado_5))
 {{< tdclose >}}
 
 {{< trclose >}}
